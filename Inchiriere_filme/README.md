@@ -50,11 +50,11 @@ The project follows a layered architecture, ensuring clarity, scalability, and m
 
 The system employs a file-based data storage approach, which is easy to implement and maintain:
 
--  clienti.txt — Stores client information.
+-  *clienti.txt* — Stores client information.
 
--  filme.txt — Contains movie records.
+-  *filme.txt* — Contains movie records.
 
--  inchirieri.txt — Logs rental transactions.
+-  *inchirieri.txt* — Logs rental transactions.
 
 
 ## 🌟 Key Features
