@@ -63,3 +63,16 @@ The system employs a file-based data storage approach, which is easy to implemen
 -  inchirieri.txt — Logs rental transactions.
 
 This approach provides simplicity and portability, making it ideal for early-stage software development projects.
+
+
+## 🌟 Key Features
+
+-  🎯 Modular Design: The layered architecture ensures clear separation of concerns, enhancing both code readability and maintainability.
+
+-  🔍 Input Validation: Strong validation rules ensure the integrity and consistency of user data, preventing errors and inconsistencies.
+
+-  📤 Full CRUD Functionality: The system supports full lifecycle management for clients, movies, and rentals, offering a complete solution for rental transactions.
+
+-  📑 Sorting & Filtering: Advanced query options allow users to filter and sort data, improving efficiency in finding specific information.
+
+-  🛠️ Robust Error Handling: The system gracefully handles errors, ensuring stability even when faced with invalid inputs or unexpected scenarios.
