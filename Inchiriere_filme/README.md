@@ -27,3 +27,10 @@ The project follows a layered architecture, ensuring clarity, scalability, and m
             -  filme.txt — Stores movie records.
 
             -  inchirieri.txt — Logs all rental transactions.
+
+
+-  ⚙️ Service Layer: Implements the business logic of the system:
+
+      -  Manages client and movie registration, as well as rental and return operations.
+
+      -  Includes sorting and filtering functionality to enhance data retrieval.
