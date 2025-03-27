@@ -79,7 +79,7 @@ This approach provides simplicity and portability, making it ideal for early-sta
 
 
 ## 🔬 Technical Highlights
-Language: Python
+-  Language: Python
 
 -  Architecture: Multi-layered architecture (Domain, Repository, Service, UI)
 
