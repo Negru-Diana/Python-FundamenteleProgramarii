@@ -46,6 +46,19 @@ The project follows a layered architecture, ensuring clarity, scalability, and m
 
 -  ✅ Validation Module: Ensures data integrity and prevents invalid entries:
 
+
+
+## 🗂️ Data Persistence
+
+The system employs a file-based data storage approach, which is easy to implement and maintain:
+
+-  clienti.txt — Stores client information.
+
+-  filme.txt — Contains movie records.
+
+-  inchirieri.txt — Logs rental transactions.
+
+This approach provides simplicity and portability, making it ideal for early-stage software development projects.
       -  Validates unique IDs, non-empty fields, and correct date formats.
 
       -  Prevents the entry of incorrect or corrupt data into the system.
