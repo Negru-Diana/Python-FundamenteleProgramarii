@@ -18,9 +18,9 @@ The project follows a layered architecture, ensuring clarity, scalability, and m
 
 -  💾 Repository Layer: Responsible for handling data storage and retrieval:
 
-        -  Implements CRUD (Create, Read, Update, Delete) operations to manage data.
+      -  Implements CRUD (Create, Read, Update, Delete) operations to manage data.
 
-        -  Uses structured text files for persistence:
+      -  Uses structured text files for persistence:
 
             -  clienti.txt — Holds client data.
 
