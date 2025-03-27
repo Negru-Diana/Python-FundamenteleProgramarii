@@ -34,3 +34,12 @@ The project follows a layered architecture, ensuring clarity, scalability, and m
       -  Manages client and movie registration, as well as rental and return operations.
 
       -  Includes sorting and filtering functionality to enhance data retrieval.
+
+
+
+-  🖥️ Console Interface (UI): Provides an interactive user interface via the command line:
+
+      -  Offers a simple, menu-driven navigation system.
+
+      -  Handles input, output, and error management for a smooth user experience.
+
