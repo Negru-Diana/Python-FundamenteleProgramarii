@@ -14,3 +14,16 @@ The project follows a layered architecture, ensuring clarity, scalability, and m
     -  Film — Represents movies with relevant information like title, genre, and release year.
 
     -  Inchiriere — Models the relationship between clients and rented movies, including rental and return dates.
+
+
+-  💾 Repository Layer: Responsible for handling data storage and retrieval:
+
+        -  Implements CRUD (Create, Read, Update, Delete) operations to manage data.
+
+        -  Uses structured text files for persistence:
+
+            -  clienti.txt — Holds client data.
+
+            -  filme.txt — Stores movie records.
+
+            -  inchirieri.txt — Logs all rental transactions.
