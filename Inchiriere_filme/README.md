@@ -43,3 +43,9 @@ The project follows a layered architecture, ensuring clarity, scalability, and m
 
       -  Handles input, output, and error management for a smooth user experience.
 
+
+-  ✅ Validation Module: Ensures data integrity and prevents invalid entries:
+
+      -  Validates unique IDs, non-empty fields, and correct date formats.
+
+      -  Prevents the entry of incorrect or corrupt data into the system.
