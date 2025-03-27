@@ -79,5 +79,4 @@ The system employs a file-based data storage approach, which is easy to implemen
 
 -  **Error Management**: Comprehensive validation and exception handling
 
-The *"Inchiriere_Filme"* project demonstrates practical problem-solving and the application of fundamental software development principles. This project serves as a strong foundation for further work in Python development and systems programming.
 
