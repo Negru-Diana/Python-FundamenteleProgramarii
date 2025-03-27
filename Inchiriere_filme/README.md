@@ -20,13 +20,7 @@ The project follows a layered architecture, ensuring clarity, scalability, and m
 
       -  Implements CRUD (Create, Read, Update, Delete) operations to manage data.
 
-      -  Uses structured text files for persistence:
-
-            -  clienti.txt — Holds client data.
-
-            -  filme.txt — Stores movie records.
-
-            -  inchirieri.txt — Logs all rental transactions.
+      -  Uses structured text files for persistence.
 
 
 -  ⚙️ **Service Layer**: Implements the business logic of the system:
