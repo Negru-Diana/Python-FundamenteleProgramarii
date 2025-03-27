@@ -76,3 +76,16 @@ This approach provides simplicity and portability, making it ideal for early-sta
 -  📑 Sorting & Filtering: Advanced query options allow users to filter and sort data, improving efficiency in finding specific information.
 
 -  🛠️ Robust Error Handling: The system gracefully handles errors, ensuring stability even when faced with invalid inputs or unexpected scenarios.
+
+
+## 🔬 Technical Highlights
+Language: Python
+
+-  Architecture: Multi-layered architecture (Domain, Repository, Service, UI)
+
+-  Data Persistence: File-based system using structured text files for storing records
+
+-  Error Management: Comprehensive validation and exception handling
+
+The Inchiriere_Filme project demonstrates practical problem-solving and the application of fundamental software development principles. This project serves as a strong foundation for further work in Python development and systems programming.
+
