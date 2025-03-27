@@ -7,7 +7,7 @@ The *"Inchiriere_Filme"* project is a Python-based application designed to simul
 
 The project follows a layered architecture, ensuring clarity, scalability, and maintainability throughout the development process:
 
--  📦 **Domain Layer**: Contains the core data entities, defining the fundamental components of the system:
+-  📦 **Domain Layer** - Contains the core data entities, defining the fundamental components of the system:
 
     -  Client — Represents customers with attributes such as unique IDs, names, and personal details.
 
@@ -16,14 +16,14 @@ The project follows a layered architecture, ensuring clarity, scalability, and m
     -  Inchiriere — Models the relationship between clients and rented movies, including rental and return dates.
 
 
--  💾 **Repository Layer**: Responsible for handling data storage and retrieval:
+-  💾 **Repository Layer** - Responsible for handling data storage and retrieval:
 
       -  Implements CRUD (Create, Read, Update, Delete) operations to manage data.
 
       -  Uses structured text files for persistence.
 
 
--  ⚙️ **Service Layer**: Implements the business logic of the system:
+-  ⚙️ **Service Layer** - Implements the business logic of the system:
 
       -  Manages client and movie registration, as well as rental and return operations.
 
@@ -31,7 +31,7 @@ The project follows a layered architecture, ensuring clarity, scalability, and m
 
 
 
--  🖥️ **Console Interface (UI)**: Provides an interactive user interface via the command line:
+-  🖥️ **Console Interface (UI)** - Provides an interactive user interface via the command line:
 
       -  Offers a simple, menu-driven navigation system.
 
@@ -39,7 +39,7 @@ The project follows a layered architecture, ensuring clarity, scalability, and m
 
 
 
--  ✅ **Validation Module**: Ensures data integrity and prevents invalid entries:
+-  ✅ **Validation Module** - Ensures data integrity and prevents invalid entries:
 
       -  Validates unique IDs, non-empty fields, and correct date formats.
 
