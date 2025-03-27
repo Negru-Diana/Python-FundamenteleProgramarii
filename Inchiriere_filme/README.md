@@ -1,13 +1,13 @@
 # 🎬 Movie Rental Management System
 
-The "Inchiriere_Filme" project is a Python-based application designed to simulate a movie rental system. It serves as a practical demonstration of key programming concepts, such as modularity, data management, and error handling, while providing a real-world solution to a common problem.
+The **"Inchiriere_Filme"* project is a Python-based application designed to simulate a movie rental system. It serves as a practical demonstration of key programming concepts, such as modularity, data management, and error handling, while providing a real-world solution to a common problem.
 
 
 ## 🏗️ Architecture Overview
 
 The project follows a layered architecture, ensuring clarity, scalability, and maintainability throughout the development process:
 
--  📦 Domain Layer: Contains the core data entities, defining the fundamental components of the system:
+-  📦 **Domain Layer**: Contains the core data entities, defining the fundamental components of the system:
 
     -  Client — Represents customers with attributes such as unique IDs, names, and personal details.
 
@@ -16,7 +16,7 @@ The project follows a layered architecture, ensuring clarity, scalability, and m
     -  Inchiriere — Models the relationship between clients and rented movies, including rental and return dates.
 
 
--  💾 Repository Layer: Responsible for handling data storage and retrieval:
+-  💾 **Repository Layer**: Responsible for handling data storage and retrieval:
 
       -  Implements CRUD (Create, Read, Update, Delete) operations to manage data.
 
@@ -29,7 +29,7 @@ The project follows a layered architecture, ensuring clarity, scalability, and m
             -  inchirieri.txt — Logs all rental transactions.
 
 
--  ⚙️ Service Layer: Implements the business logic of the system:
+-  ⚙️ **Service Layer**: Implements the business logic of the system:
 
       -  Manages client and movie registration, as well as rental and return operations.
 
@@ -37,7 +37,7 @@ The project follows a layered architecture, ensuring clarity, scalability, and m
 
 
 
--  🖥️ Console Interface (UI): Provides an interactive user interface via the command line:
+-  🖥️ **Console Interface (UI)**: Provides an interactive user interface via the command line:
 
       -  Offers a simple, menu-driven navigation system.
 
@@ -45,7 +45,7 @@ The project follows a layered architecture, ensuring clarity, scalability, and m
 
 
 
--  ✅ Validation Module: Ensures data integrity and prevents invalid entries:
+-  ✅ **Validation Module**: Ensures data integrity and prevents invalid entries:
 
       -  Validates unique IDs, non-empty fields, and correct date formats.
 
@@ -67,25 +67,25 @@ This approach provides simplicity and portability, making it ideal for early-sta
 
 ## 🌟 Key Features
 
--  🎯 Modular Design: The layered architecture ensures clear separation of concerns, enhancing both code readability and maintainability.
+-  🎯 **Modular Design**: The layered architecture ensures clear separation of concerns, enhancing both code readability and maintainability.
 
--  🔍 Input Validation: Strong validation rules ensure the integrity and consistency of user data, preventing errors and inconsistencies.
+-  🔍 **Input Validation**: Strong validation rules ensure the integrity and consistency of user data, preventing errors and inconsistencies.
 
--  📤 Full CRUD Functionality: The system supports full lifecycle management for clients, movies, and rentals, offering a complete solution for rental transactions.
+-  📤 **Full CRUD Functionality**: The system supports full lifecycle management for clients, movies, and rentals, offering a complete solution for rental transactions.
 
--  📑 Sorting & Filtering: Advanced query options allow users to filter and sort data, improving efficiency in finding specific information.
+-  📑 **Sorting & Filtering**: Advanced query options allow users to filter and sort data, improving efficiency in finding specific information.
 
--  🛠️ Robust Error Handling: The system gracefully handles errors, ensuring stability even when faced with invalid inputs or unexpected scenarios.
+-  🛠️ **Robust Error Handling**: The system gracefully handles errors, ensuring stability even when faced with invalid inputs or unexpected scenarios.
 
 
 ## 🔬 Technical Highlights
--  Language: Python
+-  **Language**: Python
 
--  Architecture: Multi-layered architecture (Domain, Repository, Service, UI)
+-  **Architecture**: Multi-layered architecture (Domain, Repository, Service, UI)
 
--  Data Persistence: File-based system using structured text files for storing records
+-  **Data Persistence**: File-based system using structured text files for storing records
 
--  Error Management: Comprehensive validation and exception handling
+-  **Error Management**: Comprehensive validation and exception handling
 
-The Inchiriere_Filme project demonstrates practical problem-solving and the application of fundamental software development principles. This project serves as a strong foundation for further work in Python development and systems programming.
+The **"Inchiriere_Filme"* project demonstrates practical problem-solving and the application of fundamental software development principles. This project serves as a strong foundation for further work in Python development and systems programming.
 
