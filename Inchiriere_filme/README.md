@@ -59,6 +59,3 @@ The system employs a file-based data storage approach, which is easy to implemen
 -  inchirieri.txt — Logs rental transactions.
 
 This approach provides simplicity and portability, making it ideal for early-stage software development projects.
-      -  Validates unique IDs, non-empty fields, and correct date formats.
-
-      -  Prevents the entry of incorrect or corrupt data into the system.
