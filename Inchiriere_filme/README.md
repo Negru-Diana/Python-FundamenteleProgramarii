@@ -33,7 +33,7 @@ The project follows a layered architecture, ensuring clarity, scalability, and m
 
       -  Manages client and movie registration, as well as rental and return operations.
 
-      -  Includes sorting and filtering functionality to enhance application utility.
+      -  Includes sorting and filtering functionality to improve application utility.
 
 
 
