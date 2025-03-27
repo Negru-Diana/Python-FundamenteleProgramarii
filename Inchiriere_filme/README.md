@@ -59,7 +59,7 @@ The system employs a file-based data storage approach, which is easy to implemen
 
 ## 🌟 Key Features
 
--  🎯 **Modular Design**: The layered architecture ensures clear separation of concerns, enhancing both code readability and maintainability.
+-  🎯 **Modular Design**: The layered architecture ensures clear separation of concerns, enhancing both code comprehension and maintainability.
 
 -  🔍 **Input Validation**: Strong validation rules ensure the integrity and consistency of user data, preventing errors and inconsistencies.
 
