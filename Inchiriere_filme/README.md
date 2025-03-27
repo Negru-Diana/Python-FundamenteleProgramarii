@@ -1,6 +1,6 @@
 # 🎬 Movie Rental Management System
 
-The **"Inchiriere_Filme"* project is a Python-based application designed to simulate a movie rental system. It serves as a practical demonstration of key programming concepts, such as modularity, data management, and error handling, while providing a real-world solution to a common problem.
+The *"Inchiriere_Filme"* project is a Python-based application designed to simulate a movie rental system. It serves as a practical demonstration of key programming concepts, such as modularity, data management, and error handling, while providing a real-world solution to a common problem.
 
 
 ## 🏗️ Architecture Overview
@@ -87,5 +87,5 @@ This approach provides simplicity and portability, making it ideal for early-sta
 
 -  **Error Management**: Comprehensive validation and exception handling
 
-The **"Inchiriere_Filme"* project demonstrates practical problem-solving and the application of fundamental software development principles. This project serves as a strong foundation for further work in Python development and systems programming.
+The *"Inchiriere_Filme"* project demonstrates practical problem-solving and the application of fundamental software development principles. This project serves as a strong foundation for further work in Python development and systems programming.
 
