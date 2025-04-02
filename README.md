@@ -18,15 +18,7 @@ The *"Inchiriere_Filme"* project is a Python-based application designed to simul
 -  🛠️ **Robust Error Handling**: The system gracefully handles errors, ensuring stability even when faced with invalid inputs or unexpected scenarios.
 
 
-## 🗂️ Data Persistence
 
-The system employs a file-based data storage approach, which is easy to implement and maintain:
-
--  *clienti.txt* — Stores client information.
-
--  *filme.txt* — Contains movie records.
-
--  *inchirieri.txt* — Logs rental transactions.
 
 
 
