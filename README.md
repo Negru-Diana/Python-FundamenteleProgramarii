@@ -13,7 +13,7 @@ The *"Inchiriere_Filme"* project is a Python-based application designed to simul
 
 -  📑 **Sorting & Filtering**: Advanced query options allow users to filter and sort data, improving efficiency in finding specific information.
   
--  🎲 Random Data Generation – Users can generate random movies and clients, making it easier to test and simulate rental scenarios.
+-  🎲 **Random Data Generation**: Users can generate random movies and clients, making it easier to test and simulate rental scenarios.
 
 -  🛠️ **Robust Error Handling**: The system gracefully handles errors, ensuring stability even when faced with invalid inputs or unexpected scenarios.
 
